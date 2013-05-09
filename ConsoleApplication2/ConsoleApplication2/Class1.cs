@@ -9,6 +9,8 @@ namespace ConsoleApplication2
     class Class1
     {
         private void GetName() { }
-        private void GetAddress() { }
+        private void GetAddress() {
+        
+        }
     }
 }
