@@ -10,6 +10,7 @@ namespace ConsoleApplication2
     {
         private void GetName() { }
         string name;
+        int age;
     }
 
 
