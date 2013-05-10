@@ -9,7 +9,7 @@ namespace ConsoleApplication2
     class Class1
     {
         private void GetName() { }
-       
+        string name;
     }
 
 
